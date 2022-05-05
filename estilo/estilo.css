@@ -4,7 +4,12 @@ body {
 
 .seccao {
   padding: 0px 10%;
+}
 
+.area-sobre{
+  padding: 180px;
+  background-color: #191919;
+  margin-top: 10px;
 }
 
 .header {
