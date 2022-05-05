@@ -50,6 +50,7 @@ h6 {
   border: #161d1f solid 0.1px;
   border-radius: 3px;
   height: fit-content;
+  text-decoration: none;
 }
 
 h1{
