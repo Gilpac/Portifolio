@@ -7,7 +7,7 @@ body {
 }
 
 .area-sobre{
-  padding: 180px;
+  padding: 180px 10%;
   background-color: #191919;
   margin-top: 10px;
 }
@@ -100,4 +100,19 @@ span{
 .social-midia{
   width: 20px;
   height: 20px;
+}
+
+.imagem{
+  width: 500px;
+  margin-top: -145px;
+}
+.texto{
+  margin-top: -145px;
+  margin-left: 35px;
+}
+.container{
+  display: flex;
+}
+.tamanho{
+  font-size: medium;
 }
