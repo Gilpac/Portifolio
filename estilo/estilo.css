@@ -65,6 +65,7 @@ span{
 .hero-image{
   width: 100px;
   height: 135px;
+  border-radius: 70px;
 }
 
 .hero-social{
