@@ -24,6 +24,20 @@ body {
   margin-top: 10px;
 }
 
+.area-contacto{
+  padding: 100px 10%;
+  background-color: #191919;
+  margin-top: 10px;
+}
+
+.area-footer{
+  padding: 10px 10%;
+  background-color: #222222;
+  margin-top: 10px;
+  justify-content: center;
+  text-align: center;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -135,6 +149,14 @@ span{
   margin-left: 10px;
   font-size: 25px;
 }
+
+.textoc{
+  margin-top: -170px;
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+
 .conteudo{
   font-size: 15px;
   color: #ef6b50;
@@ -321,3 +343,9 @@ span{
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+
+
+
+
