@@ -59,8 +59,6 @@ h6 {
 
 .button {
   transition-duration: 0.4s;
-  
-  
 }
 
 .button:hover {
@@ -107,8 +105,13 @@ span{
   margin-top: -145px;
 }
 .texto{
-  margin-top: -145px;
-  margin-left: 35px;
+  margin-top: -290px;
+  margin-left: 520px;
+  font-size: 25px;
+}
+.conteudo{
+  font-size: 15px;
+  color: #ef6b50;
 }
 .container{
   display: flex;
