@@ -1,5 +1,5 @@
 body {
-  background-color: #222222;
+  background-color: #191919;
 }
 
 .seccao {
@@ -7,8 +7,8 @@ body {
 }
 
 .area-sobre{
-  padding: 180px 10%;
-  background-color: #191919;
+  padding: 100px 10%;
+  background-color: #222222;
   margin-top: 10px;
 }
 
@@ -55,6 +55,7 @@ h6 {
   height: fit-content;
   text-decoration: none;
   border: #222222;
+  border-radius: 20px;
 }
 
 .button {
@@ -103,9 +104,10 @@ span{
 .imagem{
   width: 500px;
   margin-top: -145px;
+  border-radius: 50px;
 }
 .texto{
-  margin-top: -290px;
+  margin-top: -300px;
   margin-left: 520px;
   font-size: 25px;
 }
@@ -113,10 +115,21 @@ span{
   font-size: 15px;
   color: #ef6b50;
 }
+.conteudoo{
+  font-size: 15px;
+  color: #696969;
+}
+
 .container{
   display: flex;
+  margin-top: 80px;
 }
 .cor{
   color: #ef6b50;
   background-color: #ef6b50;
+  margin-top: -20px;
+  margin-right: 530px;
+  border-radius: 10px;
+  font-size: 3px;
+
 }
