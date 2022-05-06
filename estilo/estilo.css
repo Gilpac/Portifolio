@@ -116,6 +116,7 @@ span{
 .container{
   display: flex;
 }
-.tamanho{
-  font-size: medium;
+.cor{
+  color: #ef6b50;
+  background-color: #ef6b50;
 }
