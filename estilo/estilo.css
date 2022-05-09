@@ -122,6 +122,10 @@ span{
     flex-direction: column;
     justify-content: center;
 }
+.hero-socials{
+  display: flex;
+}
+
 .social-midia{
   width: 20px;
   height: 20px;
