@@ -433,5 +433,16 @@ input[type=submit] {
 }
 
 
+@media screen and (max-width: 800px) {
+  .row, .card {
+    display: flex;
+    display: block;
+    justify-content: center;
+    width: 260px;
+    
+  }
+}
+
+
 
 
